@@ -333,34 +333,31 @@ background: linear-gradient(180deg, rgba(8,174,234,0.639093137254902) 0%, rgba(4
 }
 
 .aicte{
-width: 12%
+width: 10%
 }
 
 .dte{
-width: 14%;
+width: 12%;
 }
 
 .msbte{
-width: 16%;
-margin-bottom: 5%;
+width: 14%;
 }
 
 .mhshasan{
-width: 14%
+width: 12%
 }
 
 .mhrd{
 width: 20%
 }
 .accreditation-links-a{
-  margin-left: -3%
   transition: .2s;
   text-decoration:none;
 }
 
 .accreditation-links-a:hover{
   opacity: 1;
-margin-top: -12px;
 text-decoration:none;
 }
 
